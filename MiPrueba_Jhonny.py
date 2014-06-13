@@ -1,5 +1,5 @@
 # -*- coding: utf8 -*-
-
+#Jhonny Córdova. C.I.:20990499
 # Realizar un programa que permita hacer uso de las operaciones matemáticas básicas
 # y además exponentes y raices
 
